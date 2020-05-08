@@ -1,5 +1,9 @@
+# repository: francolmenar/
+
 layout: sidebar
 style: light
+show_hire: false # To Display the Available for hire or not, even if you are not in a company
+
 
 plugins:
   - jekyll-octicons
