@@ -38,10 +38,18 @@
           </div>
         {% endunless %}
 
-        {% include projects.html %}
+        {% if site.show_projects == 'true' %}
+          {% include projects.html %}
+        {% endif %}
 
-        {% if site.topics %}
-          {% include interests.html %}
+        {% if site.show_organizations == 'true' %}
+          {% include projects.html %}
+        {% endif %}
+
+        {% if site.show_topics == 'true' %}
+          {% if site.topics %}
+            {% include organizations.html %}
+          {% endif %}
         {% endif %}
 
         {% unless posts_total == 0 %}
