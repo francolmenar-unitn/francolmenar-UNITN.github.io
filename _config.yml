@@ -3,7 +3,7 @@ repository: francolmenar/francolmenar.github.io
 layout: sidebar
 style: light
 show_hire: "false" # To Display the Available for hire or not, even if you are not in a company
-show_projects: "false"
+show_projects: "true"
 show_tech: "true"
 show_organizations: "true"
 show_topics: "true"
@@ -54,16 +54,9 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
-
-  - name: Cryptocurrency
-    web_url: https://github.com/topics/cryptocurrency
-
-  - name: Security
-    web_url: https://github.com/topics/security
-
+  CSS: "true"
+  Cryptocurrency: "true"
+  Security: "true"
 
 organizations:
   Personal Projects: "true"
