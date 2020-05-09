@@ -3,7 +3,7 @@ repository: francolmenar/francolmenar.github.io
 layout: sidebar
 style: light
 show_hire: "false" # To Display the Available for hire or not, even if you are not in a company
-show_projects: "true"
+show_projects: "false"
 show_tech: "true"
 show_organizations: "true"
 show_topics: "true"
@@ -54,9 +54,13 @@ social_media:
   # youtube: your_username
 
 topics:
-  CSS: "true"
-  Cryptocurrency: "true"
-  Security: "true"
+  # CSS: "true"
+  # Cryptocurrency: "true"
+  Flutter: "true"
+  # Monero: "true"
+  # Security: "true"
+  Rust: "true"
+  Zcash: "true"
 
 organizations:
   Personal Projects: "true"
@@ -66,17 +70,17 @@ organizations:
   VUW: "true"
 
 technologies:
-  Bitcoin: "true"
+  # Bitcoin: "true"
   C: "true"
-  CSS: "true"
+  # CSS: "true"
   Docker: "true"
-  Ethereum: "true"
+  # Ethereum: "true"
   Firebase: "true"
-  HTML: "true"
+  # HTML: "true"
   Java: "true"
-  JavaScript: "true"
+  # JavaScript: "true"
   Jupyter Notebook: "true"
-  Monero: "true"
+  # Monero: "true"
   Python: "true"
   React: "true"
   Rust: "true"

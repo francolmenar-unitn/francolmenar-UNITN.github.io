@@ -7,6 +7,22 @@ Cryptocurrency:
   name: Cryptocurrency
   web_url: https://github.com/topics/cryptocurrency
 
-Security:
-  name: Security
-  web_url: https://github.com/topics/security
+Flutter:
+  name: Flutter
+  web_url: https://github.com/topics/flutter
+  image_url: https://d33wubrfki0l68.cloudfront.net/8110ffe6c8a2e4c396135309a82613dd2fd3e3fa/0deff/assets/flutter_logo.png
+
+Monero:
+  name: Monero
+  web_url: https://github.com/topics/monero
+  image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/monero/monero.png
+
+Rust:
+  name: Rust
+  web_url: https://github.com/topics/rust
+  image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png
+
+Zcash:
+  name: Zcash
+  web_url: https://z.cash/
+  image_url: https://z.cash/wp-content/uploads/2018/09/basics-zcash-logo-1.png
