@@ -42,13 +42,17 @@
           {% include projects.html %}
         {% endif %}
 
+        {% if site.show_tech == 'true' %}
+          {% include tech.html %}
+        {% endif %}
+
         {% if site.show_organizations == 'true' %}
-          {% include projects.html %}
+          {% include organizations.html %}
         {% endif %}
 
         {% if site.show_topics == 'true' %}
           {% if site.topics %}
-            {% include organizations.html %}
+            {% include interests.html %}
           {% endif %}
         {% endif %}
 
