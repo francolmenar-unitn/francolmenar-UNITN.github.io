@@ -1,9 +1,14 @@
 <h2 {% if site.style == 'dark' %}class="text-white"{% endif %}>Organizations</h2>
 <p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">Projects organized by organizations.</p>
 <div class="d-flex flex-wrap gutter-condensed mb-4">
-    {% for organization in site.organizations %}
-    <div class="col-6 col-md-12 col-lg-6 col-xl-4 mb-3">
-        {% include organization-card.html %}
-    </div>
+    {% for organization_entry in site.organizations %}
+        {% assign name = organization_entry[0] %}
+        {% assign show = organization_entry[1] %}
+        {% if show == 'true' %}
+            {% assign organization = site.data.organizations[name] %}
+            <div class="col-6 col-md-12 col-lg-6 col-xl-4 mb-3">
+                {% include organization-card.html %}
+            </div>
+        {% endif %}
     {% endfor %}
 </div>

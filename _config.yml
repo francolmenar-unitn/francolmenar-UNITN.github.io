@@ -66,26 +66,11 @@ topics:
 
 
 organizations:
-  - name: Personal Projects
-    web_url: https://github.com/francolmenar-projects
-    image_url: https://avatars3.githubusercontent.com/u/64898006?s=200&v=4
-
-  - name: UC3M
-    web_url: https://github.com/francolmenar-UC3M
-    image_url: https://avatars2.githubusercontent.com/u/63871443?s=200&v=4
-
-  - name: UT
-    web_url: https://github.com/francolmenar-UT
-    image_url: https://avatars2.githubusercontent.com/u/63898774?s=200&v=4
-
-  - name: USYD
-    web_url: https://github.com/francolmenar-USYD
-    image_url: https://avatars0.githubusercontent.com/u/63897876?s=200&v=4
-
-  - name: VUW
-    web_url: https://github.com/francolmenar-VUW
-    image_url: https://avatars2.githubusercontent.com/u/63872143?s=200&v=4
-
+  Personal Projects: "true"
+  UC3M: "true"
+  UT: "true"
+  USYD: "true"
+  VUW: "true"
 
 technologies:
   Bitcoin: "true"
