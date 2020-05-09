@@ -1,0 +1,75 @@
+Bitcoin:
+  name: Bitcoin
+  web_url: https://github.com/topics/bitcoin
+  image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/bitcoin/bitcoin.png
+  
+C:
+  name: C
+  web_url: https://github.com/topics/c
+  image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png
+
+CSS:
+  name: CSS
+  web_url: https://github.com/topics/css
+  image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+
+Docker:
+  name: Docker
+  web_url: https://github.com/topics/docker
+  image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/docker/docker.png
+
+Ethereum:
+  name: Ethereum
+  web_url: https://github.com/topics/ethereum
+  image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png
+
+
+Firebase:
+  name: Firebase
+  web_url: https://github.com/topics/firebase
+  image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png
+
+HTML:
+  name: HTML
+  web_url: https://github.com/topics/html
+  image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
+
+Java:
+  name: Java
+  web_url: https://github.com/topics/java
+  image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png
+
+JavaScript:
+  name: JavaScript
+  web_url: https://github.com/topics/javascript
+  image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
+
+Jupyter Notebook:
+  name: Jupyter Notebook
+  web_url: https://github.com/topics/jupyter   notebook
+  image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter   notebook/jupyter   notebook.png
+
+Monero:
+  name: Monero
+  web_url: https://github.com/topics/monero
+  image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/monero/monero.png
+
+Python: 
+  name: Python
+  web_url: https://github.com/topics/python
+  image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
+
+React:
+  name: React
+  web_url: https://github.com/topics/react
+  image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
+
+Rust:
+  name: Rust
+  web_url: https://github.com/topics/rust
+  image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png
+
+SQL:
+  name: SQL
+  web_url: https://github.com/topics/sql
+  image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png
