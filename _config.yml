@@ -33,9 +33,9 @@ projects:
   limit: 7
   exclude:
     archived: false
-    forks: false
+    forks: true
     projects:
-      - francolmenar-UT.github.io
+      - francolmenar-UNITN.github.io
 
 social_media:
   # behance: your_username
@@ -68,11 +68,13 @@ organizations:
   Francolmenar: "true"
   Personal Projects: "true"
   UC3M: "true"
-  UT: "false"
+  UNITN: "false"
+  UT: "true"
   USYD: "true"
   VUW: "true"
 
 technologies:
+  Bash: "true"
   # Bitcoin: "true"
   # C: "true"
   # CSS: "true"
@@ -80,12 +82,12 @@ technologies:
   # Ethereum: "true"
   # Firebase: "true"
   # HTML: "true"
-  Hyperledger: "true"
-  Java: "true"
+  # Hyperledger: "true"
+  # Java: "true"
   # JavaScript: "true"
   Jupyter Notebook: "true"
   # Monero: "true"
-  # Python: "true"
+  Python: "true"
   # React: "true"
   # Rust: "true"
   # SQL: "true"
